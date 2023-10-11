@@ -98,6 +98,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Çekeceğiniz videoya format olarak bu videoya benzeyebilir: https://www.youtube.com/watch?v=ZtqBQ68cfJc
 * Yukarıdaki örnek videoda kod yazılan zamanlarda terminal ekranının videoya yansıtıldığına dikkat ediniz.
 * Videolarda konuştuğunuz zamanlar ufak bir alanda kendi görüntünüze de yer vermeniz güzel olacaktır. Örnek: [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+* Hem Linux komut satırını anlamada, hem de nasıl bir formatta video hazırlamanızın daha iyi olabileceği konusunda fikir edinmek için yukarıda örnek olarak verilen 2 Youtube videosuna benzer videoları seyredebilirsiniz. 
 * Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Örneğin grubunuz 6 kişilik bir grupsa 5 kişi 2 konu, 1 kişi de 3 konu anlatabilir.
 * Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir. Projeye katkıyı sadece videoda konu anlatımı olarak düşünmeyiniz. Video post production, tutorialdaki konuların araştırılması, Türkçeye çevrilmesi gibi işler de proje çalışması olarak değerlendirilmelidir.
 * Projeniz linki verilen tutorialın birebir videolaştırılmış hali olmasın. Tutorialdan öğrendiğiniz bilgileri tutorialdaki örnek kodlardan farklı kodlar yazarak da gösterebilirsiniz. İlginizi çeken komutları tutorialda anlatılandan daha kapsamlı anlatabilirsiniz.
