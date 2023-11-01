@@ -99,7 +99,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Yukarıdaki örnek videoda kod yazılan zamanlarda terminal ekranının videoya yansıtıldığına dikkat ediniz.
 * Videolarda konuştuğunuz zamanlar ufak bir alanda kendi görüntünüze de yer vermeniz güzel olacaktır. Örnek: [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 * Hem Linux komut satırını anlamada, hem de nasıl bir formatta video hazırlamanızın daha iyi olabileceği konusunda fikir edinmek için yukarıda örnek olarak verilen 2 Youtube videosuna benzer videoları seyredebilirsiniz. 
-* Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Örneğin grubunuz 6 kişilik bir grupsa 5 kişi 2 konu, 1 kişi de 3 konu anlatabilir.
+* Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Örneğin grubunuz 6 kişilik bir grupsa 5 kişi 2 konu, 1 kişi de 3 konu anlatabilir. Grup uyelerinizin ogrenim turu ayni olmak zorunda degil. 1. ogretim ve 2. ogretim karisik grup olusturabilirsiniz.
 * Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir. Projeye katkıyı sadece videoda konu anlatımı olarak düşünmeyiniz. Video post production, tutorialdaki konuların araştırılması, Türkçeye çevrilmesi gibi işler de proje çalışması olarak değerlendirilmelidir.
 * Projeniz linki verilen tutorialın birebir videolaştırılmış hali olmasın. Tutorialdan öğrendiğiniz bilgileri tutorialdaki örnek kodlardan farklı kodlar yazarak da gösterebilirsiniz. İlginizi çeken komutları tutorialda anlatılandan daha kapsamlı anlatabilirsiniz.
 * Projeniz Youtube'da bulabileceğiniz onlarca Linux komut satırı videosunun birebir kopyası da olmamalıdır.
@@ -126,7 +126,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * `bash.txt` dosyasını oluşturup içini doğru bir şekilde doldurduktan sonra reponuzun son halini kaydetmek (diğer bir deyişle ödevi göndermek) için repoyu **commit**`leyiniz.
 * Grup üyelerinin her birinin bu işlemleri kendi Github hesapları üzerinden yapmasın gerekmektedir. Örneğin 4 kişilik bir grupsanız her bir grup üyesi aynı bash.txt dosyasını kendi repolarına ekleyip, repolarını commit etmeleri gerekmektedir.
 * Youtube'a yüklediğiniz videonun açıklama kısmına da öğrenci numaralarınız ve isim - soyisim bilgilirini ekleyiniz.
-* Ödev son gönderim tarihi 8 Kasım 2023 23:59'dur. Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
+* Ödev son gönderim tarihi 22 Kasım 2023 23:59'dur. Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
 * Ödev gönderiminde yukarıdaki adımları doğru uygulamanız çok önemlidir. Bu adımlarda yapacağınız bir hata ödevinizin değerlendirilmemesine ya da ödev puanınızın düşürülmesine sebep olabilir.
   
   
