@@ -128,6 +128,47 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Youtube'a yüklediğiniz videonun açıklama kısmına da öğrenci numaralarınız ve isim - soyisim bilgilirini ekleyiniz.
 * Ödev son gönderim tarihi 26 Kasım 2023 23:59'dur. Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
 * Ödev gönderiminde yukarıdaki adımları doğru uygulamanız çok önemlidir. Bu adımlarda yapacağınız bir hata ödevinizin değerlendirilmemesine ya da ödev puanınızın düşürülmesine sebep olabilir.
+
+#### 2. Proje
+
+**Ön Hazırlık**
+* Operating Systems: Three Easy Pieces kitabının 5 (Process API), 26 (Concurency and Threads) ve 27 (Thread API) numaralı chapter'larını okuyunuz. 27. bölümü şu an için 27.3 Locks başlığına kadar okumanız yeterlidir.
+* Okumuş olduğunuz kitap bölümlerinde verilen örnek kodları bilgisayarınızda çalıştırınız.
+
+**Proje Açıklaması**
+
+* Bu projede kitapta sizden okunmasını istediğiniz bölümleri anlatan bir video hazırlamanız istenmektedir.
+* Videonuzdaki uygulama derslerindeki benzer şekilde özellikle kitaptaki kod örnekleri (p1.c, p2.c, p3.c, p4.c, t0.c, t1.c, thread_create.c, thread_create_simple_args.c, thread_create_with_return_args.c) üzerinde durmanız beklenmektedir.
+* Bu proje kapsamında en fazla 8 kişilik gruplar halinde bu tutorialda anlatılan konuların tamamını anlatan birer video çekmeniz gerekmektedir.
+* Videolarda konuştuğunuz zamanlar ufak bir alanda kendi görüntünüze de yer vermeniz güzel olacaktır. Örnek: [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+* Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Grup uyelerinizin öğrenim türü aynı olmak zorunda degil. 1. ögretim ve 2. öğretim karışık grup oluşturabilirsiniz.
+* Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir.
+* Her grup kendi videosunu çekmelidir. Başka bir grubun çektiği videoyu izleyip o videoyu birebir ya da büyük ölçüde taklit edecek videolar hazırlamayınız! Bu tür çalışmalar kopya olarak değerlendirilecektir.
+
+**Ödev Gönderimi**
+
+* Videonuz Youtube'a yükleyiniz. Videonuzun Youtube'da aramayla bulunabilir olmasını istemiyorsanız videonuzu sadece link ile erişilebilecek şekilde Youtube'a yükleyebilirsiniz.
+* Ödevi yüklemeniz için bu davet linki üzerinden bir repo oluşturunuz: https://classroom.github.com/a/b0QLNtAS
+* Davet linki ile repo oluşturulduktan sonra bu repoda `threads.txt` isimli bir dosya oluşturunuz.
+* `threads.txt` dosyasının içine sırayla her bir bilgi farklı satırda olacak şekilde önce video linkini sonra da grup üyelerinin öğrenci numaralarını yazınız.
+* Örnek `threads.txt` içeriği:
+
+ ```
+  https://www.youtube.com/watch?v=gd7BXuUQ91w
+  1234567890
+  1234567891
+  1234567892
+  1234567893
+  1234567894
+  1234567895
+```
+
+* `bash.txt` dosyasını oluşturup içini doğru bir şekilde doldurduktan sonra reponuzun son halini kaydetmek (diğer bir deyişle ödevi göndermek) için repoyu **commit**`leyiniz.
+* Grup üyelerinin her birinin bu işlemleri kendi Github hesapları üzerinden yapmasın gerekmektedir. Örneğin 4 kişilik bir grupsanız her bir grup üyesi aynı bash.txt dosyasını kendi repolarına ekleyip, repolarını commit etmeleri gerekmektedir.
+* Youtube'a yüklediğiniz videonun açıklama kısmına da öğrenci numaralarınız ve isim - soyisim bilgilerini ekleyiniz.
+* Ödev son gönderim tarihi 3 Ocak 2024 23:59'dur. Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
+* Ödev gönderiminde yukarıdaki adımları doğru uygulamanız çok önemlidir. Bu adımlarda yapacağınız bir hata ödevinizin değerlendirilmemesine ya da ödev puanınızın düşürülmesine sebep olabilir.
+  
   
   
   
