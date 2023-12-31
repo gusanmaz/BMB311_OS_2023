@@ -139,9 +139,10 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 
 * Bu projede kitapta sizden okunmasını istediğiniz bölümleri anlatan bir video hazırlamanız istenmektedir.
 * Videonuzdaki uygulama derslerindeki benzer şekilde özellikle kitaptaki kod örnekleri (p1.c, p2.c, p3.c, p4.c, t0.c, t1.c, thread_create.c, thread_create_simple_args.c, thread_create_with_return_args.c) üzerinde durmanız beklenmektedir.
+* Ayrica bu kodlar uzerinde ufak degisiklikler yapip bu degisikliklerin etkilerini videonuzda tartisip, modifiye ettiginiz programlari calistirip uretilen program ciktilarini videonuza ekleyebilirsiniz.
 * Videonuzda bu kodları kendi bilgisayarında çalıştırmanız, üretilen çıktıları değerlendirmeniz, ilgili kodu satır satır detaylı olarak açıklamanız beklenmektedir.
 * Videoda bu kodları kendi bilgisayarında çalıştırabildiğinizi gösteremezseniz, ödevden 0 veya oldukça düşük bir not alabilirsiniz!
-* Bu proje kapsamında en fazla 8 kişilik gruplar halinde bu tutorialda anlatılan konuların tamamını anlatan birer video çekmeniz gerekmektedir.
+* Bu proje kapsamında en fazla 8 kişilik gruplar halinde bir video çekmeniz gerekmektedir.
 * Videolarda konuştuğunuz zamanlar ufak bir alanda kendi görüntünüze de yer vermeniz güzel olacaktır. Örnek: [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 * Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Grup uyelerinizin öğrenim türü aynı olmak zorunda degil. 1. ögretim ve 2. öğretim karışık grup oluşturabilirsiniz.
 * Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir.
