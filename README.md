@@ -105,7 +105,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Projeniz Youtube'da bulabileceğiniz onlarca Linux komut satırı videosunun birebir kopyası da olmamalıdır.
 * Her grup kendi videosunu çekmelidir. Başka bir grubun çektiği videoyu izleyip o videoyu birebir ya da büyük ölçüde taklit edecek videolar hazırlamayınız! Bu tür çalışmalar kopya olarak değerlendirilecektir.
 
-**Ödev Gönderimi**
+**Proje Gönderimi**
 
 * Videonuz Youtube'a yükleyiniz. Videonuzun Youtube'da aramayla bulunabilir olmasını istemiyorsanız videonuzu sadece link ile erişilebilecek şekilde Youtube'a yükleyebilirsiniz.
 * Ödevi yüklemeniz için bu davet linki üzerinden bir repo oluşturunuz: [https://classroom.github.com/a/0LNO9aUH](https://classroom.github.com/a/0LNO9aUH)
@@ -147,8 +147,9 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Grup uyelerinizin öğrenim türü aynı olmak zorunda degil. 1. ögretim ve 2. öğretim karışık grup oluşturabilirsiniz.
 * Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir.
 * Her grup kendi videosunu çekmelidir. Başka bir grubun çektiği videoyu izleyip o videoyu birebir ya da büyük ölçüde taklit edecek videolar hazırlamayınız! Bu tür çalışmalar kopya olarak değerlendirilecektir.
+* Proje ile ilgili sorulariniz icin ders reposunun Discussions sayfasinda yeni bir kayit (Discussion) olusturabilirsiniz.
 
-**Ödev Gönderimi**
+**Proje Gönderimi**
 
 * Videonuz Youtube'a yükleyiniz. Videonuzun Youtube'da aramayla bulunabilir olmasını istemiyorsanız videonuzu sadece link ile erişilebilecek şekilde Youtube'a yükleyebilirsiniz.
 * Ödevi yüklemeniz için bu davet linki üzerinden bir repo oluşturunuz: https://classroom.github.com/a/b0QLNtAS
