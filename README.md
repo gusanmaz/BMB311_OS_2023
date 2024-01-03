@@ -1,4 +1,4 @@
-# BMB311 İşletim Sistemleri 2023-2024 Güz Dönemi Uygulama Notları, Projeleri ve Ödevleri
+9# BMB311 İşletim Sistemleri 2023-2024 Güz Dönemi Uygulama Notları, Projeleri ve Ödevleri
 
 Bu repo'da uygulama derslerine ait materyallere (ders notlari, odev bilgileri, proje bilgileri, duyurular vb.) ulasabilirsiniz.
 
@@ -144,6 +144,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Videoda bu kodları kendi bilgisayarında çalıştırabildiğinizi gösteremezseniz, ödevden 0 veya oldukça düşük bir not alabilirsiniz!
 * Bu proje kapsamında en fazla 8 kişilik gruplar halinde bir video çekmeniz gerekmektedir.
 * Videolarda konuştuğunuz zamanlar ufak bir alanda kendi görüntünüze de yer vermeniz güzel olacaktır. Örnek: [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+* Gondereceginiz videoda anlatilan her bir konu icin zaman etiketlemesi yapmaniz tavsiye edilir. Ornegin [https://www.youtube.com/watch?v=gd7BXuUQ91w](https://www.youtube.com/watch?v=gd7BXuUQ91w) videosundaki oynatma cubuguna bakarak `cat` komutunun 1:56 ile 2:02 arasinda anlatildigini anlayabiliyoruz.
 * Bütün grup üyelerinin videoda bir konu anlatması gerekmektedir. Grup uyelerinizin öğrenim türü aynı olmak zorunda degil. 1. ögretim ve 2. öğretim karışık grup oluşturabilirsiniz.
 * Her grup üyesinin projeye mümkün olduğunda eşit ölçüde katkı vermesi beklenmektedir.
 * Her grup kendi videosunu çekmelidir. Başka bir grubun çektiği videoyu izleyip o videoyu birebir ya da büyük ölçüde taklit edecek videolar hazırlamayınız! Bu tür çalışmalar kopya olarak değerlendirilecektir.
@@ -155,6 +156,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Ödevi yüklemeniz için bu davet linki üzerinden bir repo oluşturunuz: https://classroom.github.com/a/b0QLNtAS
 * Davet linki ile repo oluşturulduktan sonra bu repoda `threads.txt` isimli bir dosya oluşturunuz.
 * `threads.txt` dosyasının içine sırayla her bir bilgi farklı satırda olacak şekilde önce video linkini sonra da grup üyelerinin öğrenci numaralarını yazınız.
+* Video linki tek bir videonun URL'si olabilecegi gibi, farkli konu basliklari icin olusturulmus kisa videolarin yer aldigi bir playlist'in URL'si olabilir.
 * Örnek `threads.txt` içeriği:
 
  ```
