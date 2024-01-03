@@ -167,8 +167,8 @@ Email: gusanmaz <att< nku nokta edu nokta tr
   1234567895
 ```
 
-* `bash.txt` dosyasını oluşturup içini doğru bir şekilde doldurduktan sonra reponuzun son halini kaydetmek (diğer bir deyişle ödevi göndermek) için repoyu **commit**`leyiniz.
-* Grup üyelerinin her birinin bu işlemleri kendi Github hesapları üzerinden yapmasın gerekmektedir. Örneğin 4 kişilik bir grupsanız her bir grup üyesi aynı bash.txt dosyasını kendi repolarına ekleyip, repolarını commit etmeleri gerekmektedir.
+* `threads.txt` dosyasını oluşturup içini doğru bir şekilde doldurduktan sonra reponuzun son halini kaydetmek (diğer bir deyişle ödevi göndermek) için repoyu **commit**`leyiniz.
+* Grup üyelerinin her birinin bu işlemleri kendi Github hesapları üzerinden yapmasın gerekmektedir. Örneğin 4 kişilik bir grupsanız her bir grup üyesi aynı threads.txt dosyasını kendi repolarına ekleyip, repolarını commit etmeleri gerekmektedir.
 * Youtube'a yüklediğiniz videonun açıklama kısmına da öğrenci numaralarınız ve isim - soyisim bilgilerini ekleyiniz.
 * Ödev son gönderim tarihi **7 Ocak 2024 23:59**'dur. Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
 * Ödev gönderiminde yukarıdaki adımları doğru uygulamanız çok önemlidir. Bu adımlarda yapacağınız bir hata ödevinizin değerlendirilmemesine ya da ödev puanınızın düşürülmesine sebep olabilir.
