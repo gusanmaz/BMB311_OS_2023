@@ -1,4 +1,4 @@
-9# BMB311 İşletim Sistemleri 2023-2024 Güz Dönemi Uygulama Notları, Projeleri ve Ödevleri
+# BMB311 İşletim Sistemleri 2023-2024 Güz Dönemi Uygulama Notları, Projeleri ve Ödevleri
 
 Bu repo'da uygulama derslerine ait materyallere (ders notlari, odev bilgileri, proje bilgileri, duyurular vb.) ulasabilirsiniz.
 
@@ -138,7 +138,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 **Proje Açıklaması**
 
 * Bu projede kitapta sizden okunmasını istediğiniz bölümleri anlatan bir video hazırlamanız istenmektedir.
-* Videonuzdaki uygulama derslerindeki benzer şekilde özellikle kitaptaki kod örnekleri (p1.c, p2.c, p3.c, p4.c, t0.c, t1.c, thread_create.c, thread_create_simple_args.c, thread_create_with_return_args.c) üzerinde durmanız beklenmektedir.
+* Videonuzdaki uygulama derslerindeki benzer şekilde özellikle kitaptaki kod örnekleri (`p1.c`, `p2.c`, `p3.c`, `p4.c`, `t0.c`, `t1.c`, `thread_create.c`, `thread_create_simple_args.c`, `thread_create_with_return_args.c`) üzerinde durmanız beklenmektedir.
 * Ayrica bu kodlar uzerinde ufak degisiklikler yapip bu degisikliklerin etkilerini videonuzda tartisip, modifiye ettiginiz programlari calistirip uretilen program ciktilarini videonuza ekleyebilirsiniz.
 * Videonuzda bu kodları kendi bilgisayarında çalıştırmanız, üretilen çıktıları değerlendirmeniz, ilgili kodu satır satır detaylı olarak açıklamanız beklenmektedir.
 * Videoda bu kodları kendi bilgisayarında çalıştırabildiğinizi gösteremezseniz, ödevden 0 veya oldukça düşük bir not alabilirsiniz!
