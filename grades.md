@@ -8,7 +8,7 @@ https://github.com/gusanmaz/BMB311_OS_2023/blob/main/project1_grades.csv
 
 https://github.com/gusanmaz/BMB311_OS_2023/blob/main/project2_grades.csv
 
-### Ikinci Odevden Bazi Dusuk Not Alma Sebepleri
+### Ikinci Odevden Dusuk Not Alma Nedenlerinden Bazilari:
 
 * Yanlis ve/veya uydurulmus bilgi aktarimi
 * Odev konularinin ozunun anlasilmamis olmasi ve dolayisiyla videoda bu konulara ait bilgilerin duzgun aktarilamamis olmasi
